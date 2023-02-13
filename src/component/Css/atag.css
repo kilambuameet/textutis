@@ -1,0 +1,13 @@
+.alink {
+    /* pointer-events: none; */
+   text-decoration:none;
+    color: gray;
+   
+}
+.alink:hover{
+    color: #dcd6d6;
+
+}
+.alertissue {
+    position: relative;
+}
